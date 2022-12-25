@@ -4,3 +4,6 @@
 [submodule "CA5"]
 	path = CA5
 	url = https://github.com/DabiriAghdam/AP_CA5
+[submodule "AP_CA5"]
+	path = AP_CA5
+	url = https://github.com/DabiriAghdam/AP_CA5
